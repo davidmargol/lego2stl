@@ -150,7 +150,6 @@ Do **not** commit your API key to GitHub.
 Basic usage:
 
 ```bash
-pip install -r requirements.txt
 python3 lego2stl.py --set SET_NUMBER
 ```
 
