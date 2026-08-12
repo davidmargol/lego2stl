@@ -206,7 +206,7 @@ LEGO® is a trademark of the LEGO Group.
 
 ## License
 
-Choose a license before publishing the repository. For an open-source utility, the **MIT License** is a simple option if you want to allow reuse, modification, and redistribution.
+**MIT License**
 
 ## Contributing
 
